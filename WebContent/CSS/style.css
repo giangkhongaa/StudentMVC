@@ -1,0 +1,33 @@
+h1 {
+	color: red;
+}
+th {
+	color: blue;
+	text-align: center;
+	font-size: 25px;
+	background-color: #a5d9f7;
+}
+td {
+	text-align: center;
+	font-size: 20px;
+}
+.btn {
+	width: 100px;
+	height: 60px;
+	background-color: #21759B;
+	background-image: linear-gradient(to bottom, #2A95C5, #21759B);
+	box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset;
+	border-color: #21759B #21759B #1E6A8D #21759B;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 3px 3px 3px 3px;
+	display: inline-block;
+	padding: 4px 15px 7px 15px;
+	margin: auto;
+	margin-top: 200px;
+	color: #FFFFFF;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	text-decoration: none;
+	cursor: pointer;
+	white-space: nowrap;
+}
